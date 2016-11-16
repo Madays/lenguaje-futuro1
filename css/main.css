@@ -1,0 +1,57 @@
+/*---------------------HEADER*/
+header {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+}
+header button{
+    display: block;
+    background: gold;
+    top: 20px;
+    
+}
+#btn_sumate{
+    width: 50px;        
+}
+#logo{
+    top: 110px;
+    padding: 0 0px 0 170px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    padding: 20px;
+}
+
+/*------------------END---HEADER*/
+/*---------------------BANNER*/
+
+/*------------------END---BANNER*/
+#img_banner{
+    width: 100%;
+}
+/*---------------section.valores*/
+section.valores img{
+    width: 100%;
+}
+
+section.valores .col-md-4{
+    margin-top: 30px;
+}
+section.valores .col-md-4 h4{
+    text-align: center;
+    font-width: bold;
+}
+/*------------------FOOTER*/
+footer{
+    background: #333;
+    color: #FFF;
+    height: 40px;
+}
+footer p{
+    padding-top: 12px;    
+}
+/*----------------END--FOOTER*/
